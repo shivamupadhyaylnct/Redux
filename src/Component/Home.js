@@ -14,7 +14,7 @@ function Home() {
           </div>
           <div className="text-wrapper item">
             <span>Samsung</span>&nbsp;
-            <span>Price-1000Rs</span>
+            <span>Price-100.00Rs</span>
           </div>
           <div className="btn-wrapper item">
             <button>Add to cart</button>
